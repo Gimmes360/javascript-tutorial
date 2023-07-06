@@ -1,0 +1,7 @@
+var test=typeof(function a(){})
+var test=typeof(20)
+var test=typeof(3.6)
+var test=typeof("jenny")
+var test=typeof([4,7])
+var test=typeof(false)
+console.log(test)
